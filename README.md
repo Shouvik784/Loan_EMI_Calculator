@@ -11,6 +11,7 @@ P: Principal amount
 R: Interest rate per month.
 N: Number of months (loan terure)
 Create an interactive program that accepts user inputs for principal, interest rate, and loan tenure.
+
 • Calculate the EMI using the formula.
 • Display the calculated EMI in a clear and formatted output.
 * Test the program with different inputs to ensure accuracy and rellability
